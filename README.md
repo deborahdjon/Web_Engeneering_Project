@@ -101,6 +101,6 @@ To explore the features and capabilities of our Calendar Application, you can ac
 
 ## Contact <a name="contact"></a>
 
-If you have any questions, feedback, or encounter any issues while using our Calendar Application, please don't hesitate to contact us at [deborah.djon@gmail.com]. We are here to assist you and ensure you have the best experience with our application.
+If you have any questions, feedback, or encounter any issues while using our Calendar Application, please don't hesitate to contact us at deborah.djon@gmail.com. We are here to assist you and ensure you have the best experience with our application.
 
 Thank you for choosing our Calendar Application, and we hope it simplifies your event management needs!
